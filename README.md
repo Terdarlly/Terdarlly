@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am Li Linze, an undergraduate student from the School of Control Science and Engineering at Shandong University, whose primary research focus is deep learning
 <!--
 **Terdarlly/Terdarlly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
